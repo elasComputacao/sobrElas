@@ -2,7 +2,7 @@
 <p align= "center">
 
 
-<img align="right" width="450px" alt="GIF" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Flindinha-programadora-hH5G05&psig=AOvVaw10roWW0w41Rm2jheumH45v&ust=1602013020025000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi63dmZnuwCFQAAAAAdAAAAABAD"/>
+<img align="right" width="450px" alt="GIF" src= "https://i.makeagif.com/media/6-20-2018/hH5G05.gif"/>
 <br>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sheila-paiva-641892190/)
@@ -17,7 +17,6 @@
 <br>I am currently part of the academic center of the Computer Science course (Caesi) and the ePol project at SPLab. 
 <br>I am currently learning about data science, artificial intelligence and deep learning.
 <br> For more info, you can visit my [porftolio](https://sheilapaiva.github.io/)
-<img height ="20" src= "https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" />
 
 📫 How to reach me: 
 - <a><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"> [Discord](https://discord.com/): Sheila Paiva#9275 </a>
