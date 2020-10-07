@@ -1,6 +1,6 @@
 <h1 align= "center">Hello!!!</h1>
 
-<img width= "100" align= "right" border-radius= "50%" src= "https://avatars1.githubusercontent.com/u/42918634?s=460&v=4"/>
+<img width= "200" align= "right" margin="10" src= "https://avatars1.githubusercontent.com/u/42918634?s=460&v=4"/>
 
 <p>Yup that's me! A big nose girl who loves coding and learning new things :) A few about myself: I love playing musical instruments and also singing, and I'm a huge animals lover.
 
