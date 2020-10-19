@@ -8,7 +8,7 @@
   I'm a computer science student at UFCG. I love functional programming, web development and music.
 </p>
 
-<p>
+<p align="right">
   <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ##### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
-<p>
+<p align="right">
   <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 </p>
 
