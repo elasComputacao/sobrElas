@@ -5,6 +5,7 @@
 </p>
 
 My names is Giovana, I'm a computer science student at UFCG. I love functional programming, web development and music. I have been studying music since I was a kid, so you will probably see some personal projects about it around my github. 🖤
+
 Being part of communities like elas@Computacao and Guardians taught me a lot and that I am very grateful for.
 
 #### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
