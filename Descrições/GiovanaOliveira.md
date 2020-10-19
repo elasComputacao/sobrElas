@@ -1,12 +1,10 @@
   ## Hello World 👋🏼
 
 <p align="center">
-  <img width= "240" align= "center" border-radius= "50%" src= "https://avatars1.githubusercontent.com/u/20728102?s=460&u=ecb86784b227e6b253ec493f794a12a87943f99f&v=4"/>
+  <img width= "240" align= "left" border-radius= "50%" src= "https://avatars1.githubusercontent.com/u/20728102?s=460&u=ecb86784b227e6b253ec493f794a12a87943f99f&v=4"/>
 </p>
 
-<p align="center">
-  My names is Giovana, I'm a computer science student at UFCG. I love functional programming, web development and music. I have been studying music since I was a kid, so you will probably see some personal projects about it around my github. 🖤
-</p>
+My names is Giovana, I'm a computer science student at UFCG. I love functional programming, web development and music. I have been studying music since I was a kid, so you will probably see some personal projects about it around my github. 🖤
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
 
