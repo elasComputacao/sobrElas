@@ -16,11 +16,11 @@ Being part of communities like elas@Computacao and Guardians taught me a lot and
 [linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/
 [twitter]: https://twitter.com/giovana_bo
 
+<br/>
+
 #### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
 
 #### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
-
-<br/>
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 
