@@ -17,16 +17,13 @@ Being part of communities like elas@Computacao and Guardians taught me a lot and
 [twitter]: https://twitter.com/giovana_bo
 
 <br/>
+<br/>
 
-<p alight="right">
+#### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
 
-  #### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
-
-  #### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
-</p>
+#### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 
-<br/>
 <br/>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
