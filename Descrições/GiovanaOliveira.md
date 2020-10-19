@@ -14,11 +14,10 @@
 
 ##### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
-<p align="center"> 
- <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
-</p> 
+<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 
-### 🎶 Fun fact...
+
+#### 🎶 Fun fact...
 I love music and have been studying it since I was a kid, so you will probably see some personal music projects around my github.
 
 ### 📫 Connect with me:
