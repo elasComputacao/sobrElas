@@ -5,17 +5,14 @@
 </p>
 
 <p align="center">
-  I'm a computer science student at UFCG. I love functional programming, web development and music.
+  My names is Giovana, I'm a computer science student at UFCG. I love functional programming, web development and music. I have been studying music since I was a kid, so you will probably see some personal projects about it around my github. 🖤
 </p>
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
 
-##### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
+🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
 
-##### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
-
-#### 🎶 Fun fact...
-I love music and have been studying it since I was a kid, so you will probably see some personal music projects around my github.
+🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 
