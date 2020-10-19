@@ -10,11 +10,9 @@
 >
 <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
 
-I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
+##### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
 
- 
-### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
-You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge on robotics worldwide, in addition to participating in competitions of programming and robotics.
+##### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
 <p align="center"> 
  <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
