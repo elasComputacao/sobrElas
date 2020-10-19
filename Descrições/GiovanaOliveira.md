@@ -8,7 +8,7 @@ My names is Giovana.
 
 I'm a computer science student at UFCG. I love functional programming, web development and music. I have been studying music since I was a kid, so you will probably see some personal projects about it around my github. 🖤
 
-Being part of communities like elas@Computacao and Guardians taught me a lot and that I am very grateful for.
+Being part of communities like elas@Computacao and Guardians taught me a lot and I am very grateful for.
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][Twitter]
