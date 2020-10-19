@@ -19,6 +19,7 @@ Being part of communities like elas@Computacao and Guardians taught me a lot and
 <br/>
 
 <p alight="right">
+
   #### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
 
   #### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
