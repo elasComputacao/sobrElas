@@ -12,7 +12,8 @@ Being part of communities like elas@Computacao and Guardians taught me a lot and
 
 #### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
-<br>
+<br/>
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][Twitter]
 
@@ -21,6 +22,6 @@ Being part of communities like elas@Computacao and Guardians taught me a lot and
 
 <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 
-<br>
-<br>
+<br/>
+<br/>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
