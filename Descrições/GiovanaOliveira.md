@@ -19,8 +19,9 @@ Being part of communities like elas@Computacao and Guardians taught me a lot and
 
 [linkedin]: https://www.linkedin.com/in/giovana-oliveira-9a5b08116/
 [twitter]: https://twitter.com/giovana_bo
+
+<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
+
 <br>
 <br>
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
-
-<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
