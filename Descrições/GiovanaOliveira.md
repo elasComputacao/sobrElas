@@ -8,20 +8,16 @@
   I'm a computer science student at UFCG. I love functional programming, web development and music.
 </p>
 
-<p align="right">
-  <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
-</p>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
 
 ##### 🎙️ I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
 
 ##### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 
-<p align="right">
-  <a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
-</p>
-
 #### 🎶 Fun fact...
 I love music and have been studying it since I was a kid, so you will probably see some personal music projects around my github.
+
+<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=giovanabritooliveira&show_icons=true&" /></a>
 
 ### 📫 Connect with me:
 
