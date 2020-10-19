@@ -1,14 +1,14 @@
-## Hello World 👋🏼
+<p align="center">
+  ## Hello World 👋🏼
 
-<img width= "240" align= "center" border-radius= "50%" src= "https://avatars1.githubusercontent.com/u/20728102?s=460&u=ecb86784b227e6b253ec493f794a12a87943f99f&v=4"/>
+  <img width= "240" align= "center" border-radius= "50%" src= "https://avatars1.githubusercontent.com/u/20728102?s=460&u=ecb86784b227e6b253ec493f794a12a87943f99f&v=4"/>
 
-I'm a computer science student at UFCG. I love functional programming, web development and music.
+  I'm a computer science student at UFCG. I love functional programming, web development and music.
 
-<p align="center"> 
  <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanabritooliveira&show_icons=true&layout=compact" /></a>
-</p> 
 
-I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
+  I'm a host at the [Guardians](https://github.com/Guardians-DSC) podcast [#ChamaOSuporte](https://anchor.fm/chamaosuporte).
+</p>
  
 ### 🦾 I'm a volunteer at [RAS IEEE UFCG](https://github.com/ras-ufcg)
 You probably know IEEE. RAS (Robotics & Automation Society) is an IEEE branch that seeks to research and disseminate knowledge on robotics worldwide, in addition to participating in competitions of programming and robotics.
