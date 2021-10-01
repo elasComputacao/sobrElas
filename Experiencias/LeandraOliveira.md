@@ -5,7 +5,7 @@
 - [Experiências anteriores](#pushpin-Experiências-anteriores)
 - [Descrição do projeto](#scroll-Descrição-do-projeto)
 - [Experiência](#thought_balloon-Experiência)
-  - [Com o que eu trabalhei?](#:gear-Com-o-que-eu-trabalhei?)
+  - [Com o que eu trabalhei?](#gear-Com-o-que-eu-trabalhei?)
 - [Aprendizados](#arrows_counterclockwise-Aprendizados)
 - [Onde estou atualmente? ](#woman_technologist-Onde-estou-atualmente?)
 - [Agradecimentos](#sparkles-Agradecimentos)
