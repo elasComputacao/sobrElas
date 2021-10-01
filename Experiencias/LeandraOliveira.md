@@ -1,4 +1,4 @@
-# Experiência no projeto InSocialTec VIRTUS
+# 👩‍💻 Experiência no projeto InSocialTec VIRTUS
 
 ## :paperclips: Índice
 - [Sobre mim](#pencil-Sobre-mim)
