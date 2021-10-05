@@ -52,7 +52,7 @@ Sou apaixonada pelo ensino, programação funcional, desenvolvimento web e músi
 My name is Giovana Queiroz and I'm a Computer Science student at Federal University of Campina Grande (UFCG).
 
 Here I had the chance to participate in some amazing communities like [@guardians-DSC][@guardians-dsc], [@elasComputacao][@elascomputacao] and [@ras-ufcg][@ras-ufcg] that taught me a lot and I keep them in my heart. 💜
-I also had the chance to participate on [@petcomputacao][@petcomputacao] (Tutorial Education Program), where I could work directly with other students in Research, Teaching and Extension with the purpose of making our graduation experience even more positive.
+I also had the chance to participate in [@petcomputacao][@petcomputacao] (Tutorial Education Program), where I could work directly with other students in Research, Teaching and Extension with the purpose of making our graduation experience even more positive.
 
 I'm passionate about teaching, functional programming, web development and music. 🖤
 
