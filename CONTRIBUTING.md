@@ -1,6 +1,6 @@
 # :pencil: Contributing
 
-Contribuições sempre serão bem vindas, sejam pequenas ou grandes. Veja abaixo as várias formas de contribuir conosco.
+Contribuições serão sempre bem vindas, sejam elas pequenas ou grandes contribuições. Leia abaixo as várias formas de contribuir conosco.
 
 ## Issues
 
@@ -8,7 +8,7 @@ As issues são um espaço aberto para requisitar criação, mudança ou conserto
 
 ## Como Contribuir
 
-Se você escolheu uma issue para contribuir, não esqueça de avisar lá que você está trabalhando naquilo. 
+Caso escolha uma issue para contribuir, não esqueça de marcar a sua participação e assim avisar que  trabalhando nela. 
 Se é algo que ainda não exista uma issue, crie! É importante notificar o que você está fazendo.
 
 ### Clonar o repositório
